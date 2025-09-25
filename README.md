@@ -1,8 +1,5 @@
 # Weather ChatBot
 
-A professional React-based Weather ChatBot with a modern and interactive UI.
-
----
 
 ## 🌟 Features
 
@@ -13,19 +10,20 @@ A professional React-based Weather ChatBot with a modern and interactive UI.
 - **Weather icons** for visual clarity  
 - **Responsive design** that works on desktop and mobile  
 
----
 
 ## 💻 Demo
 
-*(Add a screenshot or GIF here of your chat app in action)*
+<img width="1920" height="1080" alt="Screenshot 2025-09-26 043243" src="https://github.com/user-attachments/assets/5dc97f77-5775-46f8-add6-99075c2ea570" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-26 043315" src="https://github.com/user-attachments/assets/459af999-4e3b-45f2-ab1d-aabef8654b43" />
 
----
+
 
 ## 🚀 Installation
 
 1. Clone the repository or download the ZIP.
 2. Open the project folder in your terminal.
 3. Install dependencies:
+
 
 ```bash
 npm install
@@ -68,9 +66,3 @@ my-app/
 ├─ .gitignore
 ├─ package.json
 └─ README.md
-
-📝 .gitignore (recommended)
-node_modules
-.env
-build
-.DS_Store
